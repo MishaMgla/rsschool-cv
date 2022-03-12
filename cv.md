@@ -1,3 +1,4 @@
+
 ## Mikhail Zhuk
 
 ![Thats me](https://i.stack.imgur.com/14h3t.png)
@@ -23,3 +24,9 @@ return Number(String(num).split(``)
 }
 
 ```
+
+**Experience** 2022-2022 [Kata Solver](https://www.codewars.com/users/MishaMgla/completed_solutions) at CodeWars<br  />
+
+**Education** Primary School<br  />
+
+**English** IELTS 6.5
